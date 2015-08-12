@@ -1,7 +1,8 @@
 ### repo
-* [Android](#Android)
-* [iOS](#iOS)
+* [Android](#android)
+* [iOS](#ios)  
 
+<br><br>
 
 # Android
 -------------
@@ -155,3 +156,9 @@ Record full-resolution video on your Android devices.
 ```
 An image loading and caching library for Android focused on smooth scrolling.
 ```
+
+<br><br>
+
+# iOS
+-------------
+// *more here soon*
