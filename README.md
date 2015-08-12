@@ -17,6 +17,22 @@ Bouncy action sheet.
 
 <img src="https://raw.githubusercontent.com/zzz40500/AndroidSweetSheet/master/screenshot/Design.gif" width="240px">
 
+
+[Clean Architecture](https://github.com/android10/Android-CleanArchitecture) // thanks to [Uncle Bob](https://blog.8thlight.com/uncle-bob/2011/11/22/Clean-Architecture.html)
+```
+Model View Presenter 
+```
+
+<img src="https://camo.githubusercontent.com/dd69e725f30c30031dea279adc5a9d09ea3432f2/687474703a2f2f6665726e616e646f63656a61732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031342f30392f636c65616e5f617263686974656374757265312e706e67" width="240px">
+
+
+[Java Code Styles](https://github.com/square/java-code-styles)
+```
+IntelliJ IDEA code style settings for Square's Java and Android projects.
+```
+
+
+
 [Cheesesquare](https://github.com/chrisbanes/cheesesquare)
 ```
 Demos the new Android Design library.
